@@ -3,4 +3,6 @@
 
     <string name="hello_world">Hello world!</string>
     <string name="action_settings">Settings</string>
+    <string name="edittext_hint_god_numbers">Chute o número escolhido pelos deuses</string>
+    <string name="button_try_number">Chutar</string>
 </resources>
